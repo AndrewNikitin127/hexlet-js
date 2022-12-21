@@ -1,5 +1,5 @@
 {
-  "name": "hexlet",
+  "name": "Dushik_first",
   "version": "1.0.0",
   "type": "module",
   "description": "Мой первый проект на Хекслете",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndrewNikitin127/hexlet-js/issues"
   },
-  "homepage": "https://github.com/AndrewNikitin127/hexlet-js#readme"
+  "homepage": "https://github.com/AndrewNikitin127/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
